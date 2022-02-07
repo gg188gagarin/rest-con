@@ -2,7 +2,7 @@
   "name": "rest-countries-api",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://anushkachauhxn.github.io/fm-rest-countries-api",
+  "homepage": "https://anushkachauhxn.github.io/rest-co",
   "dependencies": {
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
